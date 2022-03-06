@@ -16,6 +16,7 @@
     "url": "https://github.com/comp426-2022-spring/a03-elaine331917/issues"
   },
   "homepage": "https://github.com/comp426-2022-spring/a03-elaine331917#readme",
+  "type": "module",
   "dependencies": {
     "express": "^4.17.3",
     "minimist": "^1.2.5"
