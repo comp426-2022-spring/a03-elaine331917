@@ -1,0 +1,23 @@
+{
+  "name": "a03-elaine331917",
+  "version": "0.0.1",
+  "description": "building an API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-spring/a03-elaine331917.git"
+  },
+  "author": "Elaine Dong",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-spring/a03-elaine331917/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-spring/a03-elaine331917#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "minimist": "^1.2.5"
+  }
+}
